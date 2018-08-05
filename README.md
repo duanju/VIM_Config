@@ -1,7 +1,7 @@
-To apply my config, please append the content of the config file to your .vimcr file, i.e. "cat ./vimrc >> ~/.vimcr"
+# How to apply the config
+You can append the content of the config file to your .vimcr file, i.e. "cat ./line_heigh_light_blod >> ~/.vimcr"
 
-Below list all the config files that you can use in your vim:
-
+# Table of contents
 Index|File Name|Description 
 -----|---------|------------
 0|line_heigh_light_blod|Heigh light line with bold

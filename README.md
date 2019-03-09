@@ -8,3 +8,4 @@ Index|File Name|Description
 1|wrap_line|Wrap line
 2|line_number|Show line number
 3|vim_colors_solarized|Enable solarized theme
+4|tabstop_4|Display tab to display as four spaces

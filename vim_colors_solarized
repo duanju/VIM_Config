@@ -1,0 +1,6 @@
+" for solarized dark theme
+syntax on
+let g:solarized_termcolors=256
+let t_Co=256
+set background=light
+colorscheme solarized

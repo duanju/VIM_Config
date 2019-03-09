@@ -1,0 +1,2 @@
+" make the backspace work like in most other programs. see https://vi.stackexchange.com/questions/2162/why-doesnt-the-backspace-key-work-in-insert-mode
+set backspace=indent,eol,start

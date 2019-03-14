@@ -1,1 +1,4 @@
+" replace the tab as space
+set expandtab
+" set the tab width
 set tabstop=4

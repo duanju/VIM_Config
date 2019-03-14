@@ -1,5 +1,5 @@
 # How to apply the config
-You can append the content of the config file to your .vimcr file, i.e. "cat ./line_heigh_light_blod >> ~/.vimcr"
+You can append the content of the config file to your .vimcr file, i.e. "cat ./line_heigh_light_blod >> ~/.vimrc"
 
 # Table of contents
 Index|File Name|Description 

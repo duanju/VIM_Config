@@ -9,3 +9,4 @@ Index|File Name|Description
 2|line_number|Show line number
 3|vim_colors_solarized|Enable solarized theme
 4|tabstop_4|Display tab to display as four spaces
+5|indent_line|Enable vim plugin to display the indention levels with thin vertical lines 

@@ -1,0 +1,4 @@
+" install plugin manager Vundle. FYI. https://blog.csdn.net/u011417820/article/details/79648429
+
+" Regist Plugin 'Yggdroot/indentLine'
+let g:indentLine_conceallevel = 1

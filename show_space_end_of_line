@@ -1,0 +1,5 @@
+" Show the space at the end of line
+highlight ExtraWhitespace ctermbg=red guibg=darkgreen
+autocmd ColorScheme * highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$\| \+\ze\t/
+

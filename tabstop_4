@@ -2,3 +2,7 @@
 set expandtab
 " set the tab width
 set tabstop=4
+" set the number of spaces to use for each step of (auto)indent. By default
+" the value is 8
+set shiftwidth=4
+

@@ -11,3 +11,4 @@ Index|File Name|Description
 4|tabstop_4|Display tab to display as four spaces
 5|indent_line|Enable vim plugin to display the indention levels with thin vertical lines
 6|show_space_end_of_line|Show the space which is at end of line
+7|file_encodings|Fix chinese characters could not be shown correctly
